@@ -18,7 +18,7 @@
 ##结果
 是的，成功了！windows和mac都可以使用，亲测可以用！
 
-![这里写图片描述](http://img.blog.csdn.net/20161109162603583)
+![这里写图片描述](https://github.com/wzgiceman/VpnXXNetGoogle/blob/master/img/20161109162603583.png)
 
 ##准备
 
@@ -29,33 +29,33 @@
 
 ###1.下载完毕后解压缩文件夹，运行文件夹中start.vbs文件
 
-这里写图片描述
+![](https://github.com/wzgiceman/VpnXXNetGoogle/blob/master/img/1.png)
 
 ###2.如果弹出管理员权限请求（用户账户控制），请允许
 
-这里写图片描述
+![](https://github.com/wzgiceman/VpnXXNetGoogle/blob/master/img/2.png)
 
 ###3首次运行可能会弹出防火墙警告，请允许访问
 
-这里写图片描述
+![](https://github.com/wzgiceman/VpnXXNetGoogle/blob/master/img/3.png)
 
 ###4.启动XX-Net后，右下角会出现托盘图标。右键单击托盘图标，点击“全局PAC智能代理”即可。
 
-这里写图片描述
+![](https://github.com/wzgiceman/VpnXXNetGoogle/blob/master/img/4.png)
 
 ###5打开XX-Net/SwitchyOmega文件夹；打开浏览器的扩展程序页面 chrome://extensions 。把SwitchyOmega.crx文件拖放到浏览器扩展程序页面安装。
 
 
 ###6.跳过跳过教程 ，导入bak文件
 
-这里写图片描述
+![](https://github.com/wzgiceman/VpnXXNetGoogle/blob/master/img/5.png)
 文件地址
-这里写图片描述
+![](https://github.com/wzgiceman/VpnXXNetGoogle/blob/master/img/6.png)
 
 ###7.点击情景模式中的 XX-Net自动切换 ,跳过教程
 
-这里写图片描述
+![](https://github.com/wzgiceman/VpnXXNetGoogle/blob/master/img/7.png)
 
 ###8.把XX-Net切换为“取消全局代理”，就可以畅游网络了
 
-这里写图片描述
+![](https://github.com/wzgiceman/VpnXXNetGoogle/blob/master/img/8.png)
