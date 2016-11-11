@@ -49,7 +49,9 @@
 ###6.跳过跳过教程 ，导入bak文件
 
 ![](https://github.com/wzgiceman/VpnXXNetGoogle/blob/master/img/5.png)
+
 文件地址
+
 ![](https://github.com/wzgiceman/VpnXXNetGoogle/blob/master/img/6.png)
 
 ###7.点击情景模式中的 XX-Net自动切换 ,跳过教程
